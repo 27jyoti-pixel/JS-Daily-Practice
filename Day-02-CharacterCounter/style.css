@@ -48,7 +48,7 @@ main{
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 60px;
+  gap: 20px;
 }
 
 .stat{
@@ -70,7 +70,7 @@ main{
 
 .left,.m,.right{
   height: 80px;
-  width: 160px;
+  width: 190px;
   background-color: whitesmoke;
   display: flex;
   justify-content: center;
